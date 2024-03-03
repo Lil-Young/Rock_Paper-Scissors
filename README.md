@@ -1,2 +1,2 @@
-# Rock_Paper-Scissors
+# Rock_Paper_Scissors
 가위바위보
